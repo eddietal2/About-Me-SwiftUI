@@ -1,7 +1,7 @@
 import SwiftUI
 
 // #1 Rename ContentView to TabsView
-struct TabsView: View {
+struct TabsBarView: View {
     
     // #3
     let tabBar = UITabBar.appearance()
